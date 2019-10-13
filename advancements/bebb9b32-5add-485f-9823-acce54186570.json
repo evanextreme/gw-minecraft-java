@@ -747,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-10-13 20:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2019-05-04 17:58:28 +0000"
@@ -963,6 +969,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2019-05-17 18:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-10-13 20:33:59 +0000"
     },
     "done": true
   },
@@ -1320,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-10-13 20:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-05-03 15:09:28 +0000"
@@ -1455,6 +1473,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-05-03 15:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-10-13 20:33:59 +0000"
     },
     "done": true
   },
@@ -1654,6 +1678,9 @@
     "criteria": {
       "minecraft:mountains": "2019-05-03 01:32:48 +0000",
       "minecraft:forest": "2019-05-03 01:36:32 +0000",
+      "minecraft:taiga": "2019-10-13 20:40:34 +0000",
+      "minecraft:taiga_hills": "2019-10-13 20:40:31 +0000",
+      "minecraft:jungle": "2019-10-13 20:42:58 +0000",
       "minecraft:dark_forest": "2019-05-03 15:11:18 +0000",
       "minecraft:river": "2019-05-03 15:21:28 +0000",
       "minecraft:wooded_hills": "2019-05-03 15:20:33 +0000",
