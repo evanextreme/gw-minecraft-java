@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-09-03 18:46:15 +0000"
@@ -353,6 +359,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-09-08 18:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
     },
     "done": true
   },
@@ -670,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2019-11-04 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 19:05:35 +0000"
@@ -759,6 +777,7 @@
       "minecraft:skeleton": "2019-09-03 19:11:06 +0000",
       "minecraft:spider": "2019-09-03 19:13:21 +0000",
       "minecraft:creeper": "2019-09-03 19:14:35 +0000",
+      "minecraft:cave_spider": "2019-11-04 03:58:48 +0000",
       "minecraft:silverfish": "2019-11-04 02:12:17 +0000",
       "minecraft:zombie": "2019-09-03 19:10:24 +0000",
       "minecraft:zombie_villager": "2019-11-04 03:41:05 +0000"
@@ -844,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-08 18:54:47 +0000"
@@ -907,6 +932,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-09-03 19:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
     },
     "done": true
   },
@@ -1021,6 +1052,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-11-04 03:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
     },
     "done": true
   },
@@ -1213,6 +1250,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2019-09-08 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
     },
     "done": true
   },
@@ -1474,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-09-08 18:35:35 +0000"
@@ -1525,6 +1574,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-11-04 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-11-04 04:09:36 +0000"
     },
     "done": true
   },
